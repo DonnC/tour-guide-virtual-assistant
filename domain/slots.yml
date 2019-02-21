@@ -1,0 +1,8 @@
+results:
+  type: unfeaturized
+
+building:
+  type: text
+  
+requested_slot:
+  type: unfeaturized

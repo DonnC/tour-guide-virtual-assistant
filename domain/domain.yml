@@ -1,0 +1,54 @@
+
+
+intents:
+  - affirm
+  - deny
+  - directions
+  - feedback
+  - goodbye
+  - greet
+  - inform
+
+entities:
+  - building
+
+slots:
+  results:
+    type: unfeaturized
+  
+  building:
+    type: text
+    
+  requested_slot:
+    type: unfeaturized
+
+templates:
+  utter_goodbye:
+    - text: "goodbye"
+    - text: "bye bye"
+
+  utter_ask_building:
+    - text: "Ooh..where do you want to go?"
+    - text: "Give me the building name you want directions to"
+    - text: "Can you tell me where you want to go on this Campus"
+  utter_response:
+    - text: "Ok {building_directions}"
+  utter_hello:
+    - text: "Hello. I'm Nathan the Nust Tour Guide. How can i help?"
+    - text: "Hie Im Nathan. I can help you get around the campus. What can i do for you"
+
+  utter_thank_response:
+    - text: "You are welcome. :)"
+    - text: "I'm happy to help. You are welcome"
+  utter_confirm_building:
+    - text: "You said you want to go to {building}. Is that right?"
+    - text: "You need directions to {building}. Am i correct?"
+
+actions:
+  - utter_goodbye
+  - utter_ask_building
+  - utter_response
+  - utter_hello
+  - utter_thank_response
+  - utter_confirm_building
+  - domain.actions.actions.ActionBuildingDirection

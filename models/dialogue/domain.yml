@@ -1,0 +1,59 @@
+action_factory: null
+action_names:
+- utter_hello
+- utter_ask_building
+- utter_response
+- utter_goodbye
+- utter_confirm_building
+- utter_thank_response
+- action_building_direction
+actions:
+- utter_hello
+- utter_ask_building
+- utter_response
+- utter_goodbye
+- utter_confirm_building
+- utter_thank_response
+- domain.actions.actions.ActionBuildingDirection
+config:
+  store_entities_as_slots: true
+entities:
+- building
+intents:
+- affirm
+- deny
+- directions
+- feedback
+- goodbye
+- greet
+- inform
+slots:
+  building:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  requested_slot:
+    initial_value: null
+    type: rasa_core.slots.UnfeaturizedSlot
+  results:
+    initial_value: null
+    type: rasa_core.slots.UnfeaturizedSlot
+templates:
+  utter_ask_building:
+  - text: Ooh..where do you want to go?
+  - text: Give me the building name you want directions to
+  - text: Can you tell me where you want to go on this Campus
+  utter_confirm_building:
+  - text: You said you want to go to {building}. Is that right?
+  - text: You need directions to {building}. Am i correct?
+  utter_goodbye:
+  - text: goodbye
+  - text: bye bye
+  utter_hello:
+  - text: Hello. I'm Nathan the Nust Tour Guide. How can i help?
+  - text: Hie Im Nathan. I can help you get around the campus. What can i do for you
+  utter_response:
+  - text: Ok {building_directions}
+  utter_thank_response:
+  - text: You are welcome. :)
+  - text: I'm happy to help. You are welcome
+topics: []

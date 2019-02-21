@@ -1,0 +1,23 @@
+- hie how do i get to the [Administration](building) building
+- i need directions to the [Faculty of Commerce](building)
+- to [applied chemistry lab](building) building
+- i can't find the [Garage](building). Where can i find it
+- How do i go to the [Chemical Engineering building](building)
+- im lost. Where can i find [Electronics engineering building](building)
+- to [applied science](building) building
+- i need to get to the [clinic](building). I'm really lost help me 
+- to the [faculty of electronic engineering](building)
+- [administration building block](building)
+- to [faculty of engineering](building)
+- i need help to get to the [civil engineering building](building) block please
+- how do i get to [clinic](building)
+- [clinic](building)
+- [department of industrial and manufacturing](building)
+- [faculty og electronics engineering](building)
+- to the [faculty of commerce]
+- to [faculty of build engineering](building)
+- [faculty of industrial and technology](building)
+- directions to the [dept of applied physics](building) building
+- where is the [dpt of electronics](building)
+- i need directions to where the [dept of media and journalist](building) is
+- [depart of env science](building)

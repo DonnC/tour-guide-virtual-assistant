@@ -1,0 +1,396 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "feedback",
+        "text": "thank you"
+      },
+      {
+        "intent": "feedback",
+        "text": "thanks Nathan"
+      },
+      {
+        "intent": "feedback",
+        "text": "thank you very much"
+      },
+      {
+        "intent": "feedback",
+        "text": "i appreciate your help"
+      },
+      {
+        "intent": "feedback",
+        "text": "thanks buddie"
+      },
+      {
+        "intent": "feedback",
+        "text": "dankie"
+      },
+      {
+        "intent": "feedback",
+        "text": "thanks"
+      },
+      {
+        "intent": "feedback",
+        "text": "thank you Nathan"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hie"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings"
+      },
+      {
+        "intent": "goodbye",
+        "text": "goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye bye"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 24,
+            "end": 38,
+            "value": "Administration",
+            "entity": "building"
+          }
+        ],
+        "text": "hie how do i get to the Administration building"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 25,
+            "end": 44,
+            "value": "Faculty of Commerce",
+            "entity": "building"
+          }
+        ],
+        "text": "i need directions to the Faculty of Commerce"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 3,
+            "end": 24,
+            "value": "applied chemistry lab",
+            "entity": "building"
+          }
+        ],
+        "text": "to applied chemistry lab building"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "Garage",
+            "entity": "building"
+          }
+        ],
+        "text": "i can't find the Garage. Where can i find it"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 19,
+            "end": 48,
+            "value": "Chemical Engineering building",
+            "entity": "building"
+          }
+        ],
+        "text": "How do i go to the Chemical Engineering building"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 26,
+            "end": 58,
+            "value": "Electronics engineering building",
+            "entity": "building"
+          }
+        ],
+        "text": "im lost. Where can i find Electronics engineering building"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 3,
+            "end": 18,
+            "value": "applied science",
+            "entity": "building"
+          }
+        ],
+        "text": "to applied science building"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 21,
+            "end": 27,
+            "value": "clinic",
+            "entity": "building"
+          }
+        ],
+        "text": "i need to get to the clinic. I'm really lost help me"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 7,
+            "end": 40,
+            "value": "faculty of electronic engineering",
+            "entity": "building"
+          }
+        ],
+        "text": "to the faculty of electronic engineering"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 29,
+            "value": "administration building block",
+            "entity": "building"
+          }
+        ],
+        "text": "administration building block"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 3,
+            "end": 25,
+            "value": "faculty of engineering",
+            "entity": "building"
+          }
+        ],
+        "text": "to faculty of engineering"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 26,
+            "end": 52,
+            "value": "civil engineering building",
+            "entity": "building"
+          }
+        ],
+        "text": "i need help to get to the civil engineering building block please"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 16,
+            "end": 22,
+            "value": "clinic",
+            "entity": "building"
+          }
+        ],
+        "text": "how do i get to clinic"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "clinic",
+            "entity": "building"
+          }
+        ],
+        "text": "clinic"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 42,
+            "value": "department of industrial and manufacturing",
+            "entity": "building"
+          }
+        ],
+        "text": "department of industrial and manufacturing"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 34,
+            "value": "faculty og electronics engineering",
+            "entity": "building"
+          }
+        ],
+        "text": "faculty og electronics engineering"
+      },
+      {
+        "intent": "directions",
+        "text": "to the [faculty of commerce]"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 3,
+            "end": 31,
+            "value": "faculty of build engineering",
+            "entity": "building"
+          }
+        ],
+        "text": "to faculty of build engineering"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 36,
+            "value": "faculty of industrial and technology",
+            "entity": "building"
+          }
+        ],
+        "text": "faculty of industrial and technology"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 18,
+            "end": 41,
+            "value": "dept of applied physics",
+            "entity": "building"
+          }
+        ],
+        "text": "directions to the dept of applied physics building"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 13,
+            "end": 31,
+            "value": "dpt of electronics",
+            "entity": "building"
+          }
+        ],
+        "text": "where is the dpt of electronics"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 31,
+            "end": 59,
+            "value": "dept of media and journalist",
+            "entity": "building"
+          }
+        ],
+        "text": "i need directions to where the dept of media and journalist is"
+      },
+      {
+        "intent": "directions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "depart of env science",
+            "entity": "building"
+          }
+        ],
+        "text": "depart of env science"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes ofcourse"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes exactly"
+      },
+      {
+        "intent": "affirm",
+        "text": "yeah"
+      },
+      {
+        "intent": "affirm",
+        "text": "yep"
+      },
+      {
+        "intent": "affirm",
+        "text": "yah"
+      },
+      {
+        "intent": "inform",
+        "text": "i need help"
+      },
+      {
+        "intent": "inform",
+        "text": "i need directions please"
+      },
+      {
+        "intent": "inform",
+        "text": "i'm lost, help me"
+      },
+      {
+        "intent": "inform",
+        "text": "i can't find it"
+      },
+      {
+        "intent": "inform",
+        "text": "help me please"
+      },
+      {
+        "intent": "deny",
+        "text": "no"
+      },
+      {
+        "intent": "deny",
+        "text": "nop"
+      },
+      {
+        "intent": "deny",
+        "text": "not that"
+      },
+      {
+        "intent": "deny",
+        "text": "i don't"
+      },
+      {
+        "intent": "deny",
+        "text": "i did not"
+      },
+      {
+        "intent": "deny",
+        "text": "ofcourse no"
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
+  }
+}

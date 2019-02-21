@@ -1,0 +1,8 @@
+- thank you
+- thanks Nathan
+- thank you very much
+- i appreciate your help
+- thanks buddie
+- dankie
+- thanks
+- thank you Nathan

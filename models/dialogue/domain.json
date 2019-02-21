@@ -1,0 +1,22 @@
+{
+  "states": [
+    "intent_affirm",
+    "intent_deny",
+    "intent_directions",
+    "intent_feedback",
+    "intent_goodbye",
+    "intent_greet",
+    "intent_inform",
+    "entity_building",
+    "slot_building_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_utter_hello",
+    "prev_utter_ask_building",
+    "prev_utter_response",
+    "prev_utter_goodbye",
+    "prev_utter_confirm_building",
+    "prev_utter_thank_response",
+    "prev_action_building_direction"
+  ]
+}
