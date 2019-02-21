@@ -1,0 +1,307 @@
+/usr/local/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+/usr/local/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/tour_guide/default/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/usr/local/lib/python3.6/site-packages/sklearn/preprocessing/label.py:150: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/usr/local/lib/python3.6/site-packages/sklearn/preprocessing/label.py:150: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/usr/local/lib/python3.6/site-packages/sklearn/preprocessing/label.py:150: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/usr/local/lib/python3.6/site-packages/sklearn/preprocessing/label.py:150: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/usr/local/lib/python3.6/site-packages/sklearn/preprocessing/label.py:150: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/usr/local/lib/python3.6/site-packages/sklearn/preprocessing/label.py:150: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/usr/local/lib/python3.6/site-packages/sklearn/preprocessing/label.py:150: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/usr/local/lib/python3.6/site-packages/sklearn/preprocessing/label.py:150: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/usr/local/lib/python3.6/site-packages/sklearn/preprocessing/label.py:150: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/usr/local/lib/python3.6/site-packages/sklearn/preprocessing/label.py:150: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/usr/local/lib/python3.6/site-packages/sklearn/preprocessing/label.py:150: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/usr/local/lib/python3.6/site-packages/sklearn/preprocessing/label.py:150: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/tour_guide/default/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator SVC from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/tour_guide/default/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator SVC from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Encountered an exception while running action 'action_building_direction'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'split'
+Traceback (most recent call last):
+  File "/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_core/processor.py", line 302, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_core/actions/forms.py", line 146, in run
+    events_from_submit = self.submit(dispatcher, temp_tracker, domain) or []
+  File "/home/donald/Projects/Python36/rasa bots/nust_tour_guide_OLD/domain/actions/actions.py", line 43, in submit
+    dispatcher.utter_response({"image": building_image_map})
+  File "/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_core/dispatcher.py", line 60, in utter_response
+    self.utter_message(message.get("text"))
+  File "/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_core/dispatcher.py", line 73, in utter_message
+    for message_part in text.split("\n\n"):
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/tour_guide/default/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator SVC from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+Encountered an exception while running action 'action_building_direction'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'split'
+Traceback (most recent call last):
+  File "/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_core/processor.py", line 302, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_core/actions/forms.py", line 146, in run
+    events_from_submit = self.submit(dispatcher, temp_tracker, domain) or []
+  File "/home/donald/Projects/Python36/rasa bots/nust_tour_guide_OLD/domain/actions/actions.py", line 44, in submit
+    dispatcher.utter_response(img)
+  File "/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_core/dispatcher.py", line 60, in utter_response
+    self.utter_message(message.get("text"))
+  File "/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_core/dispatcher.py", line 73, in utter_message
+    for message_part in text.split("\n\n"):
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/tour_guide/default/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator SVC from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/tour_guide/default/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator SVC from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/tour_guide/default/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator SVC from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/tour_guide/default/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator SVC from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/tour_guide/default/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator SVC from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/rasa_nlu/extractors/entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/tour_guide/default/nlu/entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator SVC from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+/home/donald/Projects/Python36/rasa bots/venv/lib/python3.6/site-packages/sklearn/base.py:311: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.19.1 when using version 0.19.2. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
